@@ -1,0 +1,27 @@
+
+# Build output
+target/
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Logs
+logs/
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
