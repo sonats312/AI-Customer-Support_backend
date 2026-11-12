@@ -1,2 +1,2 @@
-# AI-Customer-Support
- An enterprise support platform rather than a simple chatbot.
+#AI-Customer-Support-Backend
+ Spring Boot REST API for AI Customer Support
